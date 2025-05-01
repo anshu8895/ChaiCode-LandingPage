@@ -38,13 +38,13 @@ ChaiCode is a comprehensive platform for coding education, featuring cohort-base
 - **Animations**: Custom CSS animations & Canvas animations
 - **Icons**: SVG icons
 - **Build Tool**: Vite
-- **Deployment**: [Your deployment platform]
+- **Deployment**: Vercel
 
 ## 📋 Installation
 
 1. Clone the repository
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/anshu8895/ChaiCode-LandingPage.git
    cd my-app
    ```
 
@@ -104,12 +104,9 @@ src/
 
 ## 🤝 Contributors
 
-- Your Name - Developer
-- [Other contributors if applicable]
+- Anshuman Padhi - Developer
+- 
 
-## 📄 License
-
-[Specify your license here]
 
 ---
 
