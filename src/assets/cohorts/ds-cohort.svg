@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="225" fill="#1e293b"/>
+    <g fill="#f7a51c" transform="translate(160, 80)">
+        <path d="M40 0a40 40 0 1 0 0 80 40 40 0 0 0 0-80zm0 70a30 30 0 1 1 0-60 30 30 0 0 1 0 60z"/>
+        <path d="M37 20l20 20-20 20M23 40h34"/>
+    </g>
+    <text x="200" y="50" fill="#ffffff" font-family="system-ui" font-size="24" text-anchor="middle">Data Science</text>
+</svg>

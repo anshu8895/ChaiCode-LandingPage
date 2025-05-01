@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="225" fill="#1e293b"/>
+    <g fill="#f7a51c" transform="translate(150, 70)">
+        <path d="M50 0L100 25L50 50L0 25L50 0z"/>
+        <path d="M0 35L50 60L100 35V45L50 70L0 45V35z"/>
+        <path d="M0 55L50 80L100 55V65L50 90L0 65V55z"/>
+    </g>
+    <text x="200" y="50" fill="#ffffff" font-family="system-ui" font-size="24" text-anchor="middle">Gen AI</text>
+</svg>

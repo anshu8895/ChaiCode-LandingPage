@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="60" rx="8" fill="#000000"/>
+    <g fill="#FFFFFF">
+        <path d="M42 18c1.1 0 2 .9 2 2v20c0 1.1-.9 2-2 2H18c-1.1 0-2-.9-2-2V20c0-1.1.9-2 2-2h24m0-2H18c-2.2 0-4 1.8-4 4v20c0 2.2 1.8 4 4 4h24c2.2 0 4-1.8 4-4V20c0-2.2-1.8-4-4-4z"/>
+        <path d="M30 43c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm0-24c6.1 0 11 4.9 11 11s-4.9 11-11 11-11-4.9-11-11 4.9-11 11-11z"/>
+        <path d="M27.5 36.5l6.5-3.8-6.5-3.8z"/>
+    </g>
+    <text x="70" y="25" fill="#FFFFFF" font-family="system-ui, -apple-system" font-size="12">Download on the</text>
+    <text x="70" y="45" fill="#FFFFFF" font-family="system-ui, -apple-system" font-size="24" font-weight="600">App Store</text>
+</svg>

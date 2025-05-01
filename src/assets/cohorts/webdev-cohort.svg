@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="225" fill="#1e293b"/>
+    <g fill="#f7a51c" transform="translate(150, 70)">
+        <path d="M0 0l35 80h30L100 0H70L35 60 0 0zm110 0v80h20V0h-20zM130 0v80h20V0h-20z"/>
+    </g>
+    <text x="200" y="50" fill="#ffffff" font-family="system-ui" font-size="24" text-anchor="middle">Web Development</text>
+</svg>

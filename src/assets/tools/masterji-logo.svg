@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .primary { fill: #f7a51c; }
+        .secondary { fill: #ffffff; }
+    </style>
+    <circle class="primary" cx="64" cy="64" r="60"/>
+    <path class="secondary" d="M45 40h38c1.1 0 2 .9 2 2v44c0 1.1-.9 2-2 2H45c-1.1 0-2-.9-2-2V42c0-1.1.9-2 2-2zm2 4v40h34V44H47zm8 8h18v4H55v-4zm0 8h18v4H55v-4zm0 8h18v4H55v-4z"/>
+    <circle class="secondary" cx="64" cy="30" r="8"/>
+</svg>

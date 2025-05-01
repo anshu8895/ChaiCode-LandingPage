@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .primary { fill: #f7a51c; }
+        .secondary { fill: #ffffff; }
+    </style>
+    <circle class="primary" cx="64" cy="64" r="60"/>
+    <path class="secondary" d="M64 30L34 52v46h60V52L64 30zm-20 44h10v16H44V74zm20-16c5.5 0 10 4.5 10 10s-4.5 10-10 10-10-4.5-10-10 4.5-10 10-10zm20 16h10v16H84V74z"/>
+</svg>

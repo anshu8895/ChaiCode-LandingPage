@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="225" fill="#1e293b"/>
+    <g fill="#f7a51c" transform="translate(150, 70)">
+        <path d="M50 0v20h20v20H50v20h50V0H50zM0 0v80h40V60h20V40H40V20h20V0H0z"/>
+    </g>
+    <text x="200" y="50" fill="#ffffff" font-family="system-ui" font-size="24" text-anchor="middle">DevOps</text>
+</svg>
